@@ -19,6 +19,7 @@ export default function Gallery() {
             });
     }, []);
     
+    
     return (
         <div className="container">
             <h1>Галерея</h1>
